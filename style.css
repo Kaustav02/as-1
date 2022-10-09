@@ -1,0 +1,44 @@
+.heading h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-style: italic;
+    background-color: rgb(102, 77, 77);
+    border: 5px solid wheat;
+
+    
+}
+
+body{
+    background: url(tiger2\ -\ Copy.jpg);
+}
+.container{
+    width: 1075px;
+    margin: auto;
+    background-color: rgb(40, 58, 145);
+    overflow: auto;
+    padding-top: 50px;
+    align-items: center;
+    padding-left: 29px;
+    padding-bottom: 50px;
+    justify-content: center;
+    position:static;
+    border: 5px solid white;
+    border-radius: 15px;
+    
+    
+}
+.photo{
+    margin: 5px;
+    border: 2px solid black;
+    float: left;
+    width: 248px;
+
+
+}
+.photo img{
+    width: 250px;
+    height: 250px;
+
+}
